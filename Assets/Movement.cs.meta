@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 5c73793844d35f046ace62c3da990b31
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - crosshair: {fileID: 2800000, guid: 92d822be36ae6c94e96bdd1b63fbf3a9, type: 3}
+  - bullet: {fileID: 400000, guid: 824ef39eddcaafe4fb24c3465ee9bca2, type: 2}
+  - ball: {fileID: 400002, guid: 503f06aaff2a77c46805e7b7b50bf498, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

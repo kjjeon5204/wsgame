@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 96672397e2173264a8b16f960686afd3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - startBUT: {fileID: 2800000, guid: 97b6c7ed0cfbf904db88248e3c8732aa, type: 3}
+  - quitBUT: {fileID: 2800000, guid: 57bb424f7f717894b9f7a8516a0f3b7a, type: 3}
+  - logo: {fileID: 2800000, guid: 76c612b5b916bfb4a8d7383b97826988, type: 3}
+  - instruction: {fileID: 2800000, guid: e4c6e2b48ffa60f46919d5f49a04e50c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

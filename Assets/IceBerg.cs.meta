@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f1a97bab152a19a41923ecf19d75f83c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Bar: {fileID: 2800000, guid: 82967e991101d2348a6bc4c9a48adb20, type: 3}
+  - Frame: {fileID: 2800000, guid: 2a6f6aab116de83498f394c7970109cf, type: 3}
+  - hungry: {fileID: 2800000, guid: 294e1dcd8074fea47ab3020d79f48553, type: 3}
+  - crosshair: {fileID: 2800000, guid: f50f763b70b6b5644b01d33cf1333617, type: 3}
+  - black: {fileID: 2800000, guid: 98507f56e428ff547ae5b7ca8e77e370, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
